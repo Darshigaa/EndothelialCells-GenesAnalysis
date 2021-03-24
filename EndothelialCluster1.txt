@@ -1,0 +1,16 @@
+Gene Name	Gene Type	Max Expression	Max Cluster	Second Cluster
+Col15a1	Protein Coding	692	1	6
+Adamts9	Protein Coding	807	1	10
+Plxnd1	Protein Coding	853	1	5
+Itga6	Protein Coding	709	1	10
+Timp3	Protein Coding	700	1	5
+Dysf	Protein Coding	695	1	10
+Stox2	Protein Coding	1490	1	11
+Ebf3	Protein Coding	693	1	8
+Phactr2	Protein Coding	500	1	6
+Tspan9	Protein Coding	634	1	6
+Pde4d	Protein Coding	2850	1	6
+Gtf21	Protein Coding	300	1	12
+Shank3	Protein Coding	963	1	10
+Mef2c	Protein Coding	1250	1	10
+Emcn	Protein Coding	1640	1	10

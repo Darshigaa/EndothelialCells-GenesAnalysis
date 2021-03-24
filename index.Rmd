@@ -1,9 +1,9 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Analysis of Genes in the Endothelial Cells"
+author: "By: Darshigaa Gurumoorthy"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+This project was carried out under the guidance of Dr. Fei Zhao. 
 
